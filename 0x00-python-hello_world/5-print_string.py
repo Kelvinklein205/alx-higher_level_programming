@@ -1,4 +1,4 @@
 #!/usr/bin/python3
 str = "Holberton School"
-str2 = "Holberton"
-print(f"{str} {str2}")
+mult = 3 * str
+print(f"{mult}\n{str[0:9]}")
